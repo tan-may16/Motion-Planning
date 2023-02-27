@@ -1,5 +1,5 @@
 # Motion-Planning
-16782 CMU - Planning and decision making
+CMU - Motion Planning Course
 
 ## Overview
 
@@ -18,4 +18,6 @@ Implementations and analysis of probabilistic planners (RRT, RRT*, RRT-Connect, 
 Implementaton of Generic Symbolic Planner that gets an environment object as an input and outputs a sequence of actions to go from the start to the goal. 
 
 
-@author: Tanmay Chinchanikar. All the planner codes were written as part of Planning and decision making course from scratch. Please refer to academic Integrity policy before using these codes.
+@author: Tanmay Chinchanikar. 
+
+All the planner codes were written as part of Planning and decision making course from scratch. Please refer to academic Integrity policy of CMU before using/referring these codes.
